@@ -1,2 +1,2 @@
 another work of main
-contact: maqbool.webdev@gmail.com
+contact: main-branch@example.com
