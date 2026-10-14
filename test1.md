@@ -1,2 +1,3 @@
 work of feature-merge
-mera naya kaam
+my new work
+next day my new work
